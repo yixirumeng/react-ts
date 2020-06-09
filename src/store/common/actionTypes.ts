@@ -1,0 +1,1 @@
+export const CHANGE_COLLASPED = Symbol('CHANGE_COLLASPED')
