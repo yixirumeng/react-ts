@@ -11,7 +11,7 @@
         "@ant-design/icons": "^4.1.0",
         "@antv/g2": "^4.0.9",
         "antd": "^4.2.5",
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "classnames": "^2.2.6",
         "dayjs": "^1.8.28",
         "immer": "^6.0.9",
