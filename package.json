@@ -14,7 +14,7 @@
         "axios": "^0.19.2",
         "classnames": "^2.2.6",
         "dayjs": "^1.8.28",
-        "immer": "^6.0.9",
+        "immer": "^8.0.1",
         "lodash-es": "^4.17.15",
         "mobx": "^5.15.4",
         "mobx-react-lite": "^2.0.7",
